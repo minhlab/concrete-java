@@ -12,6 +12,9 @@ JavaDoc API documentation is hosted on
 Consult the [README.md](ingesters/simple/README.md) for the simple ingesters project.
 
 ## Building
+
+Just run `mvn clean install` from the project root.
+
 Ensure that you run maven commands with 'clean', otherwise things may fail.
 
 Maven Dependencies
